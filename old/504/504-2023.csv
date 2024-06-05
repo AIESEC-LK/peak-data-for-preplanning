@@ -1,0 +1,1013 @@
+status,function,function_new,Month,APP
+realized,Old iGT,iGTa,January 2023,0.0
+realized,Old iGV,iGV,January 2023,0.0
+realized,iGTa,iGTa,January 2023,4.0
+realized,iGV,iGV,January 2023,13.0
+realized,iGTe,iGTe,January 2023,0.0
+realized,iGE,iGTa,January 2023,0.0
+approved,Old iGV,iGV,January 2023,0.0
+finished,iGTa,iGTa,January 2023,2.0
+finished,iGV,iGV,January 2023,5.0
+finished,iGTe,iGTe,January 2023,0.0
+realized,oGTe,oGTe,January 2023,2.0
+realized,oGTa,oGTa,January 2023,2.0
+realized,oGV,oGV,January 2023,10.0
+realized,oGE,oGTa,January 2023,0.0
+realized,Old oGT,oGTa,January 2023,0.0
+realized,Old oGV,oGV,January 2023,0.0
+approved,Old oGT,oGTa,January 2023,0.0
+approved,Old oGV,oGV,January 2023,0.0
+approved,oGV,oGV,January 2023,4.0
+approved,oGE,oGTa,January 2023,0.0
+completed,Old iGV,iGV,January 2023,0.0
+applied,Old oGV,oGV,January 2023,0.0
+completed,iGTa,iGTa,January 2023,1.0
+completed,iGTe,iGTe,January 2023,0.0
+completed,oGE,oGTa,January 2023,0.0
+approved,oGTe,oGTe,January 2023,2.0
+completed,iGV,iGV,January 2023,1.0
+completed,oGV,oGV,January 2023,0.0
+approved,oGTa,oGTa,January 2023,0.0
+completed,oGTa,oGTa,January 2023,0.0
+completed,oGTe,oGTe,January 2023,0.0
+completed,iGE,iGTa,January 2023,0.0
+completed,Old iGT,iGTa,January 2023,0.0
+completed,Old oGV,oGV,January 2023,0.0
+completed,Old oGT,oGTa,January 2023,0.0
+finished,iGE,iGTa,January 2023,0.0
+applied,iGTa,iGTa,January 2023,150.0
+applied,iGTe,iGTe,January 2023,53.0
+finished,Old iGT,iGTa,January 2023,0.0
+finished,Old iGV,iGV,January 2023,0.0
+approved,Old iGT,iGTa,January 2023,0.0
+applied,iGE,iGTa,January 2023,0.0
+approved,iGE,iGTa,January 2023,0.0
+applied,iGV,iGV,January 2023,129.0
+approved,iGV,iGV,January 2023,14.0
+applied,Old iGV,iGV,January 2023,0.0
+approved,iGTe,iGTe,January 2023,0.0
+applied,Old iGT,iGTa,January 2023,0.0
+approved,iGTa,iGTa,January 2023,3.0
+remote,oGTe,oGTe,January 2023,0.0
+remote,oGTa,oGTa,January 2023,0.0
+remote,iGTe,iGTe,January 2023,0.0
+remote,Old oGV,oGV,January 2023,0.0
+remote,iGTa,iGTa,January 2023,0.0
+remote,iGV,iGV,January 2023,0.0
+finished,oGTe,oGTe,January 2023,0.0
+remote,Old oGT,oGTa,January 2023,0.0
+finished,oGTa,oGTa,January 2023,1.0
+remote,oGE,oGTa,January 2023,0.0
+finished,oGV,oGV,January 2023,1.0
+remote,oGV,oGV,January 2023,0.0
+finished,oGE,oGTa,January 2023,0.0
+remote,Old iGV,iGV,January 2023,0.0
+applied,Old oGT,oGTa,January 2023,0.0
+finished,Old oGT,oGTa,January 2023,0.0
+finished,Old oGV,oGV,January 2023,0.0
+applied,oGE,oGTa,January 2023,0.0
+remote,iGE,iGTa,January 2023,0.0
+applied,oGV,oGV,January 2023,19.0
+applied,oGTa,oGTa,January 2023,29.0
+remote,Old iGT,iGTa,January 2023,0.0
+applied,oGTe,oGTe,January 2023,7.0
+o,oGV,oGV,January 2023,0.0
+o,oGT Old,oGTa,January 2023,0.0
+o,oGE,oGTa,January 2023,0.0
+o,oGV,oGV,January 2023,55.0
+o,oGTa,oGTa,January 2023,28.0
+o,oGTe,oGTe,January 2023,11.0
+i,iGV,iGV,January 2023,0.0
+i,iGT Old,iGTa,January 2023,0.0
+i,iGE,iGTa,January 2023,0.0
+i,iGV,iGV,January 2023,0.0
+i,iGTa,iGTa,January 2023,4.0
+i,iGTe,iGTe,January 2023,0.0
+total,Total,Total,January 2023,387.0
+total,Total,Total,January 2023,77.0
+accepted,Total,Total,January 2023,45.0
+total,Total,Total,January 2023,23.0
+total,Total,Total,January 2023,31.0
+realized,Total,Total,January 2023,0.0
+total,Total,Total,January 2023,9.0
+total,Total,Total,January 2023,2.0
+realized,Old iGT,iGTa,February 2023,0.0
+realized,Old iGV,iGV,February 2023,0.0
+realized,iGTa,iGTa,February 2023,0.0
+realized,iGV,iGV,February 2023,10.0
+realized,iGTe,iGTe,February 2023,0.0
+realized,iGE,iGTa,February 2023,0.0
+approved,Old iGV,iGV,February 2023,0.0
+finished,iGTa,iGTa,February 2023,0.0
+finished,iGV,iGV,February 2023,13.0
+finished,iGTe,iGTe,February 2023,0.0
+realized,oGTe,oGTe,February 2023,0.0
+realized,oGTa,oGTa,February 2023,1.0
+realized,oGV,oGV,February 2023,1.0
+realized,oGE,oGTa,February 2023,0.0
+realized,Old oGT,oGTa,February 2023,0.0
+realized,Old oGV,oGV,February 2023,0.0
+approved,Old oGT,oGTa,February 2023,0.0
+approved,Old oGV,oGV,February 2023,0.0
+approved,oGV,oGV,February 2023,12.0
+approved,oGE,oGTa,February 2023,0.0
+completed,Old iGV,iGV,February 2023,0.0
+applied,Old oGV,oGV,February 2023,0.0
+completed,iGTa,iGTa,February 2023,0.0
+completed,iGTe,iGTe,February 2023,0.0
+completed,oGE,oGTa,February 2023,0.0
+approved,oGTe,oGTe,February 2023,1.0
+completed,iGV,iGV,February 2023,6.0
+completed,oGV,oGV,February 2023,4.0
+approved,oGTa,oGTa,February 2023,0.0
+completed,oGTa,oGTa,February 2023,0.0
+completed,oGTe,oGTe,February 2023,1.0
+completed,iGE,iGTa,February 2023,0.0
+completed,Old iGT,iGTa,February 2023,0.0
+completed,Old oGV,oGV,February 2023,0.0
+completed,Old oGT,oGTa,February 2023,0.0
+finished,iGE,iGTa,February 2023,0.0
+applied,iGTa,iGTa,February 2023,87.0
+applied,iGTe,iGTe,February 2023,25.0
+finished,Old iGT,iGTa,February 2023,0.0
+finished,Old iGV,iGV,February 2023,0.0
+approved,Old iGT,iGTa,February 2023,0.0
+applied,iGE,iGTa,February 2023,0.0
+approved,iGE,iGTa,February 2023,0.0
+applied,iGV,iGV,February 2023,205.0
+approved,iGV,iGV,February 2023,35.0
+applied,Old iGV,iGV,February 2023,0.0
+approved,iGTe,iGTe,February 2023,0.0
+applied,Old iGT,iGTa,February 2023,0.0
+approved,iGTa,iGTa,February 2023,1.0
+remote,oGTe,oGTe,February 2023,0.0
+remote,oGTa,oGTa,February 2023,0.0
+remote,iGTe,iGTe,February 2023,0.0
+remote,Old oGV,oGV,February 2023,0.0
+remote,iGTa,iGTa,February 2023,0.0
+remote,iGV,iGV,February 2023,0.0
+finished,oGTe,oGTe,February 2023,1.0
+remote,Old oGT,oGTa,February 2023,0.0
+finished,oGTa,oGTa,February 2023,0.0
+remote,oGE,oGTa,February 2023,0.0
+finished,oGV,oGV,February 2023,7.0
+remote,oGV,oGV,February 2023,0.0
+finished,oGE,oGTa,February 2023,0.0
+remote,Old iGV,iGV,February 2023,0.0
+applied,Old oGT,oGTa,February 2023,0.0
+finished,Old oGT,oGTa,February 2023,0.0
+finished,Old oGV,oGV,February 2023,0.0
+applied,oGE,oGTa,February 2023,0.0
+remote,iGE,iGTa,February 2023,0.0
+applied,oGV,oGV,February 2023,28.0
+applied,oGTa,oGTa,February 2023,32.0
+remote,Old iGT,iGTa,February 2023,0.0
+applied,oGTe,oGTe,February 2023,14.0
+o,oGV,oGV,February 2023,0.0
+o,oGT Old,oGTa,February 2023,0.0
+o,oGE,oGTa,February 2023,0.0
+o,oGV,oGV,February 2023,46.0
+o,oGTa,oGTa,February 2023,37.0
+o,oGTe,oGTe,February 2023,10.0
+i,iGV,iGV,February 2023,0.0
+i,iGT Old,iGTa,February 2023,0.0
+i,iGE,iGTa,February 2023,0.0
+i,iGV,iGV,February 2023,0.0
+i,iGTa,iGTa,February 2023,2.0
+i,iGTe,iGTe,February 2023,0.0
+total,Total,Total,February 2023,391.0
+total,Total,Total,February 2023,110.0
+accepted,Total,Total,February 2023,80.0
+total,Total,Total,February 2023,49.0
+total,Total,Total,February 2023,12.0
+realized,Total,Total,February 2023,0.0
+total,Total,Total,February 2023,21.0
+total,Total,Total,February 2023,11.0
+realized,Old iGT,iGTa,March 2023,0.0
+realized,Old iGV,iGV,March 2023,0.0
+realized,iGTa,iGTa,March 2023,1.0
+realized,iGV,iGV,March 2023,5.0
+realized,iGTe,iGTe,March 2023,0.0
+realized,iGE,iGTa,March 2023,0.0
+approved,Old iGV,iGV,March 2023,0.0
+finished,iGTa,iGTa,March 2023,2.0
+finished,iGV,iGV,March 2023,7.0
+finished,iGTe,iGTe,March 2023,0.0
+realized,oGTe,oGTe,March 2023,1.0
+realized,oGTa,oGTa,March 2023,0.0
+realized,oGV,oGV,March 2023,5.0
+realized,oGE,oGTa,March 2023,0.0
+realized,Old oGT,oGTa,March 2023,0.0
+realized,Old oGV,oGV,March 2023,0.0
+approved,Old oGT,oGTa,March 2023,0.0
+approved,Old oGV,oGV,March 2023,0.0
+approved,oGV,oGV,March 2023,7.0
+approved,oGE,oGTa,March 2023,0.0
+completed,Old iGV,iGV,March 2023,0.0
+applied,Old oGV,oGV,March 2023,0.0
+completed,iGTa,iGTa,March 2023,0.0
+completed,iGTe,iGTe,March 2023,0.0
+completed,oGE,oGTa,March 2023,0.0
+approved,oGTe,oGTe,March 2023,1.0
+completed,iGV,iGV,March 2023,2.0
+completed,oGV,oGV,March 2023,1.0
+approved,oGTa,oGTa,March 2023,0.0
+completed,oGTa,oGTa,March 2023,0.0
+completed,oGTe,oGTe,March 2023,1.0
+completed,iGE,iGTa,March 2023,0.0
+completed,Old iGT,iGTa,March 2023,0.0
+completed,Old oGV,oGV,March 2023,0.0
+completed,Old oGT,oGTa,March 2023,0.0
+finished,iGE,iGTa,March 2023,0.0
+applied,iGTa,iGTa,March 2023,60.0
+applied,iGTe,iGTe,March 2023,17.0
+finished,Old iGT,iGTa,March 2023,0.0
+finished,Old iGV,iGV,March 2023,0.0
+approved,Old iGT,iGTa,March 2023,0.0
+applied,iGE,iGTa,March 2023,0.0
+approved,iGE,iGTa,March 2023,0.0
+applied,iGV,iGV,March 2023,492.0
+approved,iGV,iGV,March 2023,69.0
+applied,Old iGV,iGV,March 2023,0.0
+approved,iGTe,iGTe,March 2023,0.0
+applied,Old iGT,iGTa,March 2023,0.0
+approved,iGTa,iGTa,March 2023,1.0
+remote,oGTe,oGTe,March 2023,0.0
+remote,oGTa,oGTa,March 2023,0.0
+remote,iGTe,iGTe,March 2023,0.0
+remote,Old oGV,oGV,March 2023,0.0
+remote,iGTa,iGTa,March 2023,0.0
+remote,iGV,iGV,March 2023,0.0
+finished,oGTe,oGTe,March 2023,2.0
+remote,Old oGT,oGTa,March 2023,0.0
+finished,oGTa,oGTa,March 2023,0.0
+remote,oGE,oGTa,March 2023,0.0
+finished,oGV,oGV,March 2023,3.0
+remote,oGV,oGV,March 2023,0.0
+finished,oGE,oGTa,March 2023,0.0
+remote,Old iGV,iGV,March 2023,0.0
+applied,Old oGT,oGTa,March 2023,0.0
+finished,Old oGT,oGTa,March 2023,0.0
+finished,Old oGV,oGV,March 2023,0.0
+applied,oGE,oGTa,March 2023,0.0
+remote,iGE,iGTa,March 2023,0.0
+applied,oGV,oGV,March 2023,36.0
+applied,oGTa,oGTa,March 2023,65.0
+remote,Old iGT,iGTa,March 2023,0.0
+applied,oGTe,oGTe,March 2023,25.0
+o,oGV,oGV,March 2023,0.0
+o,oGT Old,oGTa,March 2023,0.0
+o,oGE,oGTa,March 2023,0.0
+o,oGV,oGV,March 2023,56.0
+o,oGTa,oGTa,March 2023,85.0
+o,oGTe,oGTe,March 2023,31.0
+i,iGV,iGV,March 2023,0.0
+i,iGT Old,iGTa,March 2023,0.0
+i,iGE,iGTa,March 2023,0.0
+i,iGV,iGV,March 2023,0.0
+i,iGTa,iGTa,March 2023,5.0
+i,iGTe,iGTe,March 2023,3.0
+total,Total,Total,March 2023,695.0
+total,Total,Total,March 2023,297.0
+accepted,Total,Total,March 2023,174.0
+total,Total,Total,March 2023,78.0
+total,Total,Total,March 2023,12.0
+realized,Total,Total,March 2023,0.0
+total,Total,Total,March 2023,14.0
+total,Total,Total,March 2023,4.0
+realized,Old iGT,iGTa,April 2023,0.0
+realized,Old iGV,iGV,April 2023,0.0
+realized,iGTa,iGTa,April 2023,1.0
+realized,iGV,iGV,April 2023,15.0
+realized,iGTe,iGTe,April 2023,0.0
+realized,iGE,iGTa,April 2023,0.0
+approved,Old iGV,iGV,April 2023,0.0
+finished,iGTa,iGTa,April 2023,1.0
+finished,iGV,iGV,April 2023,8.0
+finished,iGTe,iGTe,April 2023,0.0
+realized,oGTe,oGTe,April 2023,0.0
+realized,oGTa,oGTa,April 2023,1.0
+realized,oGV,oGV,April 2023,2.0
+realized,oGE,oGTa,April 2023,0.0
+realized,Old oGT,oGTa,April 2023,0.0
+realized,Old oGV,oGV,April 2023,0.0
+approved,Old oGT,oGTa,April 2023,0.0
+approved,Old oGV,oGV,April 2023,0.0
+approved,oGV,oGV,April 2023,10.0
+approved,oGE,oGTa,April 2023,0.0
+completed,Old iGV,iGV,April 2023,0.0
+applied,Old oGV,oGV,April 2023,0.0
+completed,iGTa,iGTa,April 2023,1.0
+completed,iGTe,iGTe,April 2023,0.0
+completed,oGE,oGTa,April 2023,0.0
+approved,oGTe,oGTe,April 2023,3.0
+completed,iGV,iGV,April 2023,3.0
+completed,oGV,oGV,April 2023,1.0
+approved,oGTa,oGTa,April 2023,3.0
+completed,oGTa,oGTa,April 2023,0.0
+completed,oGTe,oGTe,April 2023,0.0
+completed,iGE,iGTa,April 2023,0.0
+completed,Old iGT,iGTa,April 2023,0.0
+completed,Old oGV,oGV,April 2023,0.0
+completed,Old oGT,oGTa,April 2023,0.0
+finished,iGE,iGTa,April 2023,0.0
+applied,iGTa,iGTa,April 2023,105.0
+applied,iGTe,iGTe,April 2023,28.0
+finished,Old iGT,iGTa,April 2023,0.0
+finished,Old iGV,iGV,April 2023,0.0
+approved,Old iGT,iGTa,April 2023,0.0
+applied,iGE,iGTa,April 2023,0.0
+approved,iGE,iGTa,April 2023,0.0
+applied,iGV,iGV,April 2023,522.0
+approved,iGV,iGV,April 2023,73.0
+applied,Old iGV,iGV,April 2023,0.0
+approved,iGTe,iGTe,April 2023,3.0
+applied,Old iGT,iGTa,April 2023,0.0
+approved,iGTa,iGTa,April 2023,1.0
+remote,oGTe,oGTe,April 2023,0.0
+remote,oGTa,oGTa,April 2023,0.0
+remote,iGTe,iGTe,April 2023,0.0
+remote,Old oGV,oGV,April 2023,0.0
+remote,iGTa,iGTa,April 2023,0.0
+remote,iGV,iGV,April 2023,0.0
+finished,oGTe,oGTe,April 2023,0.0
+remote,Old oGT,oGTa,April 2023,0.0
+finished,oGTa,oGTa,April 2023,0.0
+remote,oGE,oGTa,April 2023,0.0
+finished,oGV,oGV,April 2023,4.0
+remote,oGV,oGV,April 2023,0.0
+finished,oGE,oGTa,April 2023,0.0
+remote,Old iGV,iGV,April 2023,0.0
+applied,Old oGT,oGTa,April 2023,0.0
+finished,Old oGT,oGTa,April 2023,0.0
+finished,Old oGV,oGV,April 2023,0.0
+applied,oGE,oGTa,April 2023,0.0
+remote,iGE,iGTa,April 2023,0.0
+applied,oGV,oGV,April 2023,28.0
+applied,oGTa,oGTa,April 2023,42.0
+remote,Old iGT,iGTa,April 2023,0.0
+applied,oGTe,oGTe,April 2023,21.0
+o,oGV,oGV,April 2023,0.0
+o,oGT Old,oGTa,April 2023,0.0
+o,oGE,oGTa,April 2023,0.0
+o,oGV,oGV,April 2023,41.0
+o,oGTa,oGTa,April 2023,32.0
+o,oGTe,oGTe,April 2023,5.0
+i,iGV,iGV,April 2023,0.0
+i,iGT Old,iGTa,April 2023,0.0
+i,iGE,iGTa,April 2023,0.0
+i,iGV,iGV,April 2023,1.0
+i,iGTa,iGTa,April 2023,3.0
+i,iGTe,iGTe,April 2023,4.0
+total,Total,Total,April 2023,746.0
+total,Total,Total,April 2023,266.0
+accepted,Total,Total,April 2023,144.0
+total,Total,Total,April 2023,93.0
+total,Total,Total,April 2023,19.0
+realized,Total,Total,April 2023,0.0
+total,Total,Total,April 2023,13.0
+total,Total,Total,April 2023,5.0
+realized,Old iGT,iGTa,May 2023,0.0
+realized,Old iGV,iGV,May 2023,0.0
+realized,iGTa,iGTa,May 2023,0.0
+realized,iGV,iGV,May 2023,16.0
+realized,iGTe,iGTe,May 2023,1.0
+realized,iGE,iGTa,May 2023,0.0
+approved,Old iGV,iGV,May 2023,0.0
+finished,iGTa,iGTa,May 2023,2.0
+finished,iGV,iGV,May 2023,8.0
+finished,iGTe,iGTe,May 2023,0.0
+realized,oGTe,oGTe,May 2023,2.0
+realized,oGTa,oGTa,May 2023,2.0
+realized,oGV,oGV,May 2023,4.0
+realized,oGE,oGTa,May 2023,0.0
+realized,Old oGT,oGTa,May 2023,0.0
+realized,Old oGV,oGV,May 2023,0.0
+approved,Old oGT,oGTa,May 2023,0.0
+approved,Old oGV,oGV,May 2023,0.0
+approved,oGV,oGV,May 2023,5.0
+approved,oGE,oGTa,May 2023,0.0
+completed,Old iGV,iGV,May 2023,0.0
+applied,Old oGV,oGV,May 2023,0.0
+completed,iGTa,iGTa,May 2023,0.0
+completed,iGTe,iGTe,May 2023,0.0
+completed,oGE,oGTa,May 2023,0.0
+approved,oGTe,oGTe,May 2023,0.0
+completed,iGV,iGV,May 2023,4.0
+completed,oGV,oGV,May 2023,1.0
+approved,oGTa,oGTa,May 2023,0.0
+completed,oGTa,oGTa,May 2023,0.0
+completed,oGTe,oGTe,May 2023,0.0
+completed,iGE,iGTa,May 2023,0.0
+completed,Old iGT,iGTa,May 2023,0.0
+completed,Old oGV,oGV,May 2023,0.0
+completed,Old oGT,oGTa,May 2023,0.0
+finished,iGE,iGTa,May 2023,0.0
+applied,iGTa,iGTa,May 2023,105.0
+applied,iGTe,iGTe,May 2023,22.0
+finished,Old iGT,iGTa,May 2023,0.0
+finished,Old iGV,iGV,May 2023,0.0
+approved,Old iGT,iGTa,May 2023,0.0
+applied,iGE,iGTa,May 2023,0.0
+approved,iGE,iGTa,May 2023,0.0
+applied,iGV,iGV,May 2023,411.0
+approved,iGV,iGV,May 2023,75.0
+applied,Old iGV,iGV,May 2023,0.0
+approved,iGTe,iGTe,May 2023,1.0
+applied,Old iGT,iGTa,May 2023,0.0
+approved,iGTa,iGTa,May 2023,1.0
+remote,oGTe,oGTe,May 2023,0.0
+remote,oGTa,oGTa,May 2023,0.0
+remote,iGTe,iGTe,May 2023,0.0
+remote,Old oGV,oGV,May 2023,0.0
+remote,iGTa,iGTa,May 2023,0.0
+remote,iGV,iGV,May 2023,0.0
+finished,oGTe,oGTe,May 2023,1.0
+remote,Old oGT,oGTa,May 2023,0.0
+finished,oGTa,oGTa,May 2023,0.0
+remote,oGE,oGTa,May 2023,0.0
+finished,oGV,oGV,May 2023,3.0
+remote,oGV,oGV,May 2023,0.0
+finished,oGE,oGTa,May 2023,0.0
+remote,Old iGV,iGV,May 2023,0.0
+applied,Old oGT,oGTa,May 2023,0.0
+finished,Old oGT,oGTa,May 2023,0.0
+finished,Old oGV,oGV,May 2023,0.0
+applied,oGE,oGTa,May 2023,0.0
+remote,iGE,iGTa,May 2023,0.0
+applied,oGV,oGV,May 2023,15.0
+applied,oGTa,oGTa,May 2023,47.0
+remote,Old iGT,iGTa,May 2023,0.0
+applied,oGTe,oGTe,May 2023,10.0
+o,oGV,oGV,May 2023,0.0
+o,oGT Old,oGTa,May 2023,0.0
+o,oGE,oGTa,May 2023,0.0
+o,oGV,oGV,May 2023,26.0
+o,oGTa,oGTa,May 2023,34.0
+o,oGTe,oGTe,May 2023,8.0
+i,iGV,iGV,May 2023,0.0
+i,iGT Old,iGTa,May 2023,0.0
+i,iGE,iGTa,May 2023,0.0
+i,iGV,iGV,May 2023,0.0
+i,iGTa,iGTa,May 2023,8.0
+i,iGTe,iGTe,May 2023,4.0
+total,Total,Total,May 2023,610.0
+total,Total,Total,May 2023,190.0
+accepted,Total,Total,May 2023,114.0
+total,Total,Total,May 2023,82.0
+total,Total,Total,May 2023,25.0
+realized,Total,Total,May 2023,0.0
+total,Total,Total,May 2023,14.0
+total,Total,Total,May 2023,5.0
+realized,Old iGT,iGTa,June 2023,0.0
+realized,Old iGV,iGV,June 2023,0.0
+realized,iGTa,iGTa,June 2023,0.0
+realized,iGV,iGV,June 2023,70.0
+realized,iGTe,iGTe,June 2023,1.0
+realized,iGE,iGTa,June 2023,0.0
+approved,Old iGV,iGV,June 2023,0.0
+finished,iGTa,iGTa,June 2023,0.0
+finished,iGV,iGV,June 2023,16.0
+finished,iGTe,iGTe,June 2023,0.0
+realized,oGTe,oGTe,June 2023,1.0
+realized,oGTa,oGTa,June 2023,2.0
+realized,oGV,oGV,June 2023,11.0
+realized,oGE,oGTa,June 2023,0.0
+realized,Old oGT,oGTa,June 2023,0.0
+realized,Old oGV,oGV,June 2023,0.0
+approved,Old oGT,oGTa,June 2023,0.0
+approved,Old oGV,oGV,June 2023,0.0
+approved,oGV,oGV,June 2023,2.0
+approved,oGE,oGTa,June 2023,0.0
+completed,Old iGV,iGV,June 2023,0.0
+applied,Old oGV,oGV,June 2023,0.0
+completed,iGTa,iGTa,June 2023,0.0
+completed,iGTe,iGTe,June 2023,0.0
+completed,oGE,oGTa,June 2023,0.0
+approved,oGTe,oGTe,June 2023,1.0
+completed,iGV,iGV,June 2023,4.0
+completed,oGV,oGV,June 2023,5.0
+approved,oGTa,oGTa,June 2023,1.0
+completed,oGTa,oGTa,June 2023,0.0
+completed,oGTe,oGTe,June 2023,0.0
+completed,iGE,iGTa,June 2023,0.0
+completed,Old iGT,iGTa,June 2023,0.0
+completed,Old oGV,oGV,June 2023,0.0
+completed,Old oGT,oGTa,June 2023,0.0
+finished,iGE,iGTa,June 2023,0.0
+applied,iGTa,iGTa,June 2023,70.0
+applied,iGTe,iGTe,June 2023,28.0
+finished,Old iGT,iGTa,June 2023,0.0
+finished,Old iGV,iGV,June 2023,0.0
+approved,Old iGT,iGTa,June 2023,0.0
+applied,iGE,iGTa,June 2023,0.0
+approved,iGE,iGTa,June 2023,0.0
+applied,iGV,iGV,June 2023,333.0
+approved,iGV,iGV,June 2023,73.0
+applied,Old iGV,iGV,June 2023,0.0
+approved,iGTe,iGTe,June 2023,3.0
+applied,Old iGT,iGTa,June 2023,0.0
+approved,iGTa,iGTa,June 2023,1.0
+remote,oGTe,oGTe,June 2023,0.0
+remote,oGTa,oGTa,June 2023,0.0
+remote,iGTe,iGTe,June 2023,0.0
+remote,Old oGV,oGV,June 2023,0.0
+remote,iGTa,iGTa,June 2023,0.0
+remote,iGV,iGV,June 2023,0.0
+finished,oGTe,oGTe,June 2023,1.0
+remote,Old oGT,oGTa,June 2023,0.0
+finished,oGTa,oGTa,June 2023,0.0
+remote,oGE,oGTa,June 2023,0.0
+finished,oGV,oGV,June 2023,5.0
+remote,oGV,oGV,June 2023,0.0
+finished,oGE,oGTa,June 2023,0.0
+remote,Old iGV,iGV,June 2023,0.0
+applied,Old oGT,oGTa,June 2023,0.0
+finished,Old oGT,oGTa,June 2023,0.0
+finished,Old oGV,oGV,June 2023,0.0
+applied,oGE,oGTa,June 2023,0.0
+remote,iGE,iGTa,June 2023,0.0
+applied,oGV,oGV,June 2023,18.0
+applied,oGTa,oGTa,June 2023,55.0
+remote,Old iGT,iGTa,June 2023,0.0
+applied,oGTe,oGTe,June 2023,27.0
+o,oGV,oGV,June 2023,0.0
+o,oGT Old,oGTa,June 2023,0.0
+o,oGE,oGTa,June 2023,0.0
+o,oGV,oGV,June 2023,37.0
+o,oGTa,oGTa,June 2023,46.0
+o,oGTe,oGTe,June 2023,12.0
+i,iGV,iGV,June 2023,0.0
+i,iGT Old,iGTa,June 2023,0.0
+i,iGE,iGTa,June 2023,0.0
+i,iGV,iGV,June 2023,0.0
+i,iGTa,iGTa,June 2023,2.0
+i,iGTe,iGTe,June 2023,1.0
+total,Total,Total,June 2023,531.0
+total,Total,Total,June 2023,150.0
+accepted,Total,Total,June 2023,107.0
+total,Total,Total,June 2023,81.0
+total,Total,Total,June 2023,85.0
+realized,Total,Total,June 2023,0.0
+total,Total,Total,June 2023,22.0
+total,Total,Total,June 2023,9.0
+realized,Old iGT,iGTa,July 2023,0.0
+realized,Old iGV,iGV,July 2023,0.0
+realized,iGTa,iGTa,July 2023,1.0
+realized,iGV,iGV,July 2023,132.0
+realized,iGTe,iGTe,July 2023,1.0
+realized,iGE,iGTa,July 2023,0.0
+approved,Old iGV,iGV,July 2023,0.0
+finished,iGTa,iGTa,July 2023,2.0
+finished,iGV,iGV,July 2023,54.0
+finished,iGTe,iGTe,July 2023,1.0
+realized,oGTe,oGTe,July 2023,0.0
+realized,oGTa,oGTa,July 2023,1.0
+realized,oGV,oGV,July 2023,6.0
+realized,oGE,oGTa,July 2023,0.0
+realized,Old oGT,oGTa,July 2023,0.0
+realized,Old oGV,oGV,July 2023,0.0
+approved,Old oGT,oGTa,July 2023,0.0
+approved,Old oGV,oGV,July 2023,0.0
+approved,oGV,oGV,July 2023,11.0
+approved,oGE,oGTa,July 2023,0.0
+completed,Old iGV,iGV,July 2023,0.0
+applied,Old oGV,oGV,July 2023,0.0
+completed,iGTa,iGTa,July 2023,0.0
+completed,iGTe,iGTe,July 2023,1.0
+completed,oGE,oGTa,July 2023,0.0
+approved,oGTe,oGTe,July 2023,2.0
+completed,iGV,iGV,July 2023,21.0
+completed,oGV,oGV,July 2023,7.0
+approved,oGTa,oGTa,July 2023,1.0
+completed,oGTa,oGTa,July 2023,1.0
+completed,oGTe,oGTe,July 2023,0.0
+completed,iGE,iGTa,July 2023,0.0
+completed,Old iGT,iGTa,July 2023,0.0
+completed,Old oGV,oGV,July 2023,0.0
+completed,Old oGT,oGTa,July 2023,0.0
+finished,iGE,iGTa,July 2023,0.0
+applied,iGTa,iGTa,July 2023,91.0
+applied,iGTe,iGTe,July 2023,18.0
+finished,Old iGT,iGTa,July 2023,0.0
+finished,Old iGV,iGV,July 2023,0.0
+approved,Old iGT,iGTa,July 2023,0.0
+applied,iGE,iGTa,July 2023,0.0
+approved,iGE,iGTa,July 2023,0.0
+applied,iGV,iGV,July 2023,223.0
+approved,iGV,iGV,July 2023,46.0
+applied,Old iGV,iGV,July 2023,0.0
+approved,iGTe,iGTe,July 2023,1.0
+applied,Old iGT,iGTa,July 2023,0.0
+approved,iGTa,iGTa,July 2023,1.0
+remote,oGTe,oGTe,July 2023,0.0
+remote,oGTa,oGTa,July 2023,0.0
+remote,iGTe,iGTe,July 2023,0.0
+remote,Old oGV,oGV,July 2023,0.0
+remote,iGTa,iGTa,July 2023,0.0
+remote,iGV,iGV,July 2023,0.0
+finished,oGTe,oGTe,July 2023,2.0
+remote,Old oGT,oGTa,July 2023,0.0
+finished,oGTa,oGTa,July 2023,3.0
+remote,oGE,oGTa,July 2023,0.0
+finished,oGV,oGV,July 2023,7.0
+remote,oGV,oGV,July 2023,0.0
+finished,oGE,oGTa,July 2023,0.0
+remote,Old iGV,iGV,July 2023,0.0
+applied,Old oGT,oGTa,July 2023,0.0
+finished,Old oGT,oGTa,July 2023,0.0
+finished,Old oGV,oGV,July 2023,0.0
+applied,oGE,oGTa,July 2023,0.0
+remote,iGE,iGTa,July 2023,0.0
+applied,oGV,oGV,July 2023,24.0
+applied,oGTa,oGTa,July 2023,34.0
+remote,Old iGT,iGTa,July 2023,0.0
+applied,oGTe,oGTe,July 2023,15.0
+o,oGV,oGV,July 2023,0.0
+o,oGT Old,oGTa,July 2023,0.0
+o,oGE,oGTa,July 2023,0.0
+o,oGV,oGV,July 2023,36.0
+o,oGTa,oGTa,July 2023,25.0
+o,oGTe,oGTe,July 2023,8.0
+i,iGV,iGV,July 2023,0.0
+i,iGT Old,iGTa,July 2023,0.0
+i,iGE,iGTa,July 2023,0.0
+i,iGV,iGV,July 2023,0.0
+i,iGTa,iGTa,July 2023,2.0
+i,iGTe,iGTe,July 2023,4.0
+total,Total,Total,July 2023,405.0
+total,Total,Total,July 2023,105.0
+accepted,Total,Total,July 2023,70.0
+total,Total,Total,July 2023,62.0
+total,Total,Total,July 2023,141.0
+realized,Total,Total,July 2023,0.0
+total,Total,Total,July 2023,69.0
+total,Total,Total,July 2023,30.0
+realized,Old iGT,iGTa,August 2023,0.0
+realized,Old iGV,iGV,August 2023,0.0
+realized,iGTa,iGTa,August 2023,0.0
+realized,iGV,iGV,August 2023,65.0
+realized,iGTe,iGTe,August 2023,0.0
+realized,iGE,iGTa,August 2023,0.0
+approved,Old iGV,iGV,August 2023,0.0
+finished,iGTa,iGTa,August 2023,1.0
+finished,iGV,iGV,August 2023,128.0
+finished,iGTe,iGTe,August 2023,0.0
+realized,oGTe,oGTe,August 2023,1.0
+realized,oGTa,oGTa,August 2023,0.0
+realized,oGV,oGV,August 2023,3.0
+realized,oGE,oGTa,August 2023,0.0
+realized,Old oGT,oGTa,August 2023,0.0
+realized,Old oGV,oGV,August 2023,0.0
+approved,Old oGT,oGTa,August 2023,0.0
+approved,Old oGV,oGV,August 2023,0.0
+approved,oGV,oGV,August 2023,2.0
+approved,oGE,oGTa,August 2023,0.0
+completed,Old iGV,iGV,August 2023,0.0
+applied,Old oGV,oGV,August 2023,0.0
+completed,iGTa,iGTa,August 2023,1.0
+completed,iGTe,iGTe,August 2023,0.0
+completed,oGE,oGTa,August 2023,0.0
+approved,oGTe,oGTe,August 2023,2.0
+completed,iGV,iGV,August 2023,60.0
+completed,oGV,oGV,August 2023,7.0
+approved,oGTa,oGTa,August 2023,0.0
+completed,oGTa,oGTa,August 2023,3.0
+completed,oGTe,oGTe,August 2023,1.0
+completed,iGE,iGTa,August 2023,0.0
+completed,Old iGT,iGTa,August 2023,0.0
+completed,Old oGV,oGV,August 2023,0.0
+completed,Old oGT,oGTa,August 2023,0.0
+finished,iGE,iGTa,August 2023,0.0
+applied,iGTa,iGTa,August 2023,99.0
+applied,iGTe,iGTe,August 2023,37.0
+finished,Old iGT,iGTa,August 2023,0.0
+finished,Old iGV,iGV,August 2023,0.0
+approved,Old iGT,iGTa,August 2023,0.0
+applied,iGE,iGTa,August 2023,0.0
+approved,iGE,iGTa,August 2023,0.0
+applied,iGV,iGV,August 2023,295.0
+approved,iGV,iGV,August 2023,32.0
+applied,Old iGV,iGV,August 2023,0.0
+approved,iGTe,iGTe,August 2023,1.0
+applied,Old iGT,iGTa,August 2023,0.0
+approved,iGTa,iGTa,August 2023,0.0
+remote,oGTe,oGTe,August 2023,0.0
+remote,oGTa,oGTa,August 2023,0.0
+remote,iGTe,iGTe,August 2023,0.0
+remote,Old oGV,oGV,August 2023,0.0
+remote,iGTa,iGTa,August 2023,0.0
+remote,iGV,iGV,August 2023,0.0
+finished,oGTe,oGTe,August 2023,1.0
+remote,Old oGT,oGTa,August 2023,0.0
+finished,oGTa,oGTa,August 2023,3.0
+remote,oGE,oGTa,August 2023,0.0
+finished,oGV,oGV,August 2023,9.0
+remote,oGV,oGV,August 2023,0.0
+finished,oGE,oGTa,August 2023,0.0
+remote,Old iGV,iGV,August 2023,0.0
+applied,Old oGT,oGTa,August 2023,0.0
+finished,Old oGT,oGTa,August 2023,0.0
+finished,Old oGV,oGV,August 2023,0.0
+applied,oGE,oGTa,August 2023,0.0
+remote,iGE,iGTa,August 2023,0.0
+applied,oGV,oGV,August 2023,9.0
+applied,oGTa,oGTa,August 2023,26.0
+remote,Old iGT,iGTa,August 2023,0.0
+applied,oGTe,oGTe,August 2023,4.0
+o,oGV,oGV,August 2023,0.0
+o,oGT Old,oGTa,August 2023,0.0
+o,oGE,oGTa,August 2023,0.0
+o,oGV,oGV,August 2023,17.0
+o,oGTa,oGTa,August 2023,18.0
+o,oGTe,oGTe,August 2023,3.0
+i,iGV,iGV,August 2023,0.0
+i,iGT Old,iGTa,August 2023,0.0
+i,iGE,iGTa,August 2023,0.0
+i,iGV,iGV,August 2023,8.0
+i,iGTa,iGTa,August 2023,1.0
+i,iGTe,iGTe,August 2023,0.0
+total,Total,Total,August 2023,470.0
+total,Total,Total,August 2023,70.0
+accepted,Total,Total,August 2023,42.0
+total,Total,Total,August 2023,37.0
+total,Total,Total,August 2023,69.0
+realized,Total,Total,August 2023,0.0
+total,Total,Total,August 2023,142.0
+total,Total,Total,August 2023,72.0
+realized,Old iGT,iGTa,September 2023,0.0
+realized,Old iGV,iGV,September 2023,0.0
+realized,iGTa,iGTa,September 2023,1.0
+realized,iGV,iGV,September 2023,29.0
+realized,iGTe,iGTe,September 2023,4.0
+realized,iGE,iGTa,September 2023,0.0
+approved,Old iGV,iGV,September 2023,0.0
+finished,iGTa,iGTa,September 2023,0.0
+finished,iGV,iGV,September 2023,74.0
+finished,iGTe,iGTe,September 2023,2.0
+realized,oGTe,oGTe,September 2023,2.0
+realized,oGTa,oGTa,September 2023,1.0
+realized,oGV,oGV,September 2023,3.0
+realized,oGE,oGTa,September 2023,0.0
+realized,Old oGT,oGTa,September 2023,0.0
+realized,Old oGV,oGV,September 2023,0.0
+approved,Old oGT,oGTa,September 2023,0.0
+approved,Old oGV,oGV,September 2023,0.0
+approved,oGV,oGV,September 2023,6.0
+approved,oGE,oGTa,September 2023,0.0
+completed,Old iGV,iGV,September 2023,0.0
+applied,Old oGV,oGV,September 2023,0.0
+completed,iGTa,iGTa,September 2023,0.0
+completed,iGTe,iGTe,September 2023,1.0
+completed,oGE,oGTa,September 2023,0.0
+approved,oGTe,oGTe,September 2023,3.0
+completed,iGV,iGV,September 2023,37.0
+completed,oGV,oGV,September 2023,4.0
+approved,oGTa,oGTa,September 2023,1.0
+completed,oGTa,oGTa,September 2023,1.0
+completed,oGTe,oGTe,September 2023,2.0
+completed,iGE,iGTa,September 2023,0.0
+completed,Old iGT,iGTa,September 2023,0.0
+completed,Old oGV,oGV,September 2023,0.0
+completed,Old oGT,oGTa,September 2023,0.0
+finished,iGE,iGTa,September 2023,0.0
+applied,iGTa,iGTa,September 2023,150.0
+applied,iGTe,iGTe,September 2023,24.0
+finished,Old iGT,iGTa,September 2023,0.0
+finished,Old iGV,iGV,September 2023,0.0
+approved,Old iGT,iGTa,September 2023,0.0
+applied,iGE,iGTa,September 2023,0.0
+approved,iGE,iGTa,September 2023,0.0
+applied,iGV,iGV,September 2023,315.0
+approved,iGV,iGV,September 2023,31.0
+applied,Old iGV,iGV,September 2023,0.0
+approved,iGTe,iGTe,September 2023,1.0
+applied,Old iGT,iGTa,September 2023,0.0
+approved,iGTa,iGTa,September 2023,1.0
+remote,oGTe,oGTe,September 2023,0.0
+remote,oGTa,oGTa,September 2023,0.0
+remote,iGTe,iGTe,September 2023,0.0
+remote,Old oGV,oGV,September 2023,0.0
+remote,iGTa,iGTa,September 2023,0.0
+remote,iGV,iGV,September 2023,0.0
+finished,oGTe,oGTe,September 2023,2.0
+remote,Old oGT,oGTa,September 2023,0.0
+finished,oGTa,oGTa,September 2023,2.0
+remote,oGE,oGTa,September 2023,0.0
+finished,oGV,oGV,September 2023,4.0
+remote,oGV,oGV,September 2023,0.0
+finished,oGE,oGTa,September 2023,0.0
+remote,Old iGV,iGV,September 2023,0.0
+applied,Old oGT,oGTa,September 2023,0.0
+finished,Old oGT,oGTa,September 2023,0.0
+finished,Old oGV,oGV,September 2023,0.0
+applied,oGE,oGTa,September 2023,0.0
+remote,iGE,iGTa,September 2023,0.0
+applied,oGV,oGV,September 2023,19.0
+applied,oGTa,oGTa,September 2023,24.0
+remote,Old iGT,iGTa,September 2023,0.0
+applied,oGTe,oGTe,September 2023,12.0
+o,oGV,oGV,September 2023,0.0
+o,oGT Old,oGTa,September 2023,0.0
+o,oGE,oGTa,September 2023,0.0
+o,oGV,oGV,September 2023,37.0
+o,oGTa,oGTa,September 2023,46.0
+o,oGTe,oGTe,September 2023,25.0
+i,iGV,iGV,September 2023,0.0
+i,iGT Old,iGTa,September 2023,0.0
+i,iGE,iGTa,September 2023,0.0
+i,iGV,iGV,September 2023,1.0
+i,iGTa,iGTa,September 2023,6.0
+i,iGTe,iGTe,September 2023,3.0
+total,Total,Total,September 2023,544.0
+total,Total,Total,September 2023,87.0
+accepted,Total,Total,September 2023,54.0
+total,Total,Total,September 2023,43.0
+total,Total,Total,September 2023,40.0
+realized,Total,Total,September 2023,0.0
+total,Total,Total,September 2023,84.0
+total,Total,Total,September 2023,45.0
+realized,Old iGT,iGTa,October 2023,0.0
+realized,Old iGV,iGV,October 2023,0.0
+realized,iGTa,iGTa,October 2023,2.0
+realized,iGV,iGV,October 2023,27.0
+realized,iGTe,iGTe,October 2023,1.0
+realized,iGE,iGTa,October 2023,0.0
+approved,Old iGV,iGV,October 2023,0.0
+finished,iGTa,iGTa,October 2023,2.0
+finished,iGV,iGV,October 2023,42.0
+finished,iGTe,iGTe,October 2023,0.0
+realized,oGTe,oGTe,October 2023,1.0
+realized,oGTa,oGTa,October 2023,0.0
+realized,oGV,oGV,October 2023,2.0
+realized,oGE,oGTa,October 2023,0.0
+realized,Old oGT,oGTa,October 2023,0.0
+realized,Old oGV,oGV,October 2023,0.0
+approved,Old oGT,oGTa,October 2023,0.0
+approved,Old oGV,oGV,October 2023,0.0
+approved,oGV,oGV,October 2023,7.0
+approved,oGE,oGTa,October 2023,0.0
+completed,Old iGV,iGV,October 2023,0.0
+applied,Old oGV,oGV,October 2023,0.0
+completed,iGTa,iGTa,October 2023,1.0
+completed,iGTe,iGTe,October 2023,0.0
+completed,oGE,oGTa,October 2023,0.0
+approved,oGTe,oGTe,October 2023,2.0
+completed,iGV,iGV,October 2023,15.0
+completed,oGV,oGV,October 2023,2.0
+approved,oGTa,oGTa,October 2023,1.0
+completed,oGTa,oGTa,October 2023,0.0
+completed,oGTe,oGTe,October 2023,0.0
+completed,iGE,iGTa,October 2023,0.0
+completed,Old iGT,iGTa,October 2023,0.0
+completed,Old oGV,oGV,October 2023,0.0
+completed,Old oGT,oGTa,October 2023,0.0
+finished,iGE,iGTa,October 2023,0.0
+applied,iGTa,iGTa,October 2023,86.0
+applied,iGTe,iGTe,October 2023,13.0
+finished,Old iGT,iGTa,October 2023,0.0
+finished,Old iGV,iGV,October 2023,0.0
+approved,Old iGT,iGTa,October 2023,0.0
+applied,iGE,iGTa,October 2023,0.0
+approved,iGE,iGTa,October 2023,0.0
+applied,iGV,iGV,October 2023,200.0
+approved,iGV,iGV,October 2023,31.0
+applied,Old iGV,iGV,October 2023,0.0
+approved,iGTe,iGTe,October 2023,0.0
+applied,Old iGT,iGTa,October 2023,0.0
+approved,iGTa,iGTa,October 2023,2.0
+remote,oGTe,oGTe,October 2023,0.0
+remote,oGTa,oGTa,October 2023,0.0
+remote,iGTe,iGTe,October 2023,0.0
+remote,Old oGV,oGV,October 2023,0.0
+remote,iGTa,iGTa,October 2023,0.0
+remote,iGV,iGV,October 2023,0.0
+finished,oGTe,oGTe,October 2023,1.0
+remote,Old oGT,oGTa,October 2023,0.0
+finished,oGTa,oGTa,October 2023,1.0
+remote,oGE,oGTa,October 2023,0.0
+finished,oGV,oGV,October 2023,3.0
+remote,oGV,oGV,October 2023,0.0
+finished,oGE,oGTa,October 2023,0.0
+remote,Old iGV,iGV,October 2023,0.0
+applied,Old oGT,oGTa,October 2023,0.0
+finished,Old oGT,oGTa,October 2023,0.0
+finished,Old oGV,oGV,October 2023,0.0
+applied,oGE,oGTa,October 2023,0.0
+remote,iGE,iGTa,October 2023,0.0
+applied,oGV,oGV,October 2023,17.0
+applied,oGTa,oGTa,October 2023,29.0
+remote,Old iGT,iGTa,October 2023,0.0
+applied,oGTe,oGTe,October 2023,12.0
+o,oGV,oGV,October 2023,0.0
+o,oGT Old,oGTa,October 2023,0.0
+o,oGE,oGTa,October 2023,0.0
+o,oGV,oGV,October 2023,36.0
+o,oGTa,oGTa,October 2023,48.0
+o,oGTe,oGTe,October 2023,12.0
+i,iGV,iGV,October 2023,0.0
+i,iGT Old,iGTa,October 2023,0.0
+i,iGE,iGTa,October 2023,0.0
+i,iGV,iGV,October 2023,0.0
+i,iGTa,iGTa,October 2023,4.0
+i,iGTe,iGTe,October 2023,1.0
+total,Total,Total,October 2023,357.0
+total,Total,Total,October 2023,93.0
+accepted,Total,Total,October 2023,45.0
+total,Total,Total,October 2023,43.0
+total,Total,Total,October 2023,33.0
+realized,Total,Total,October 2023,0.0
+total,Total,Total,October 2023,49.0
+total,Total,Total,October 2023,18.0
+realized,Old iGT,iGTa,November 2023,0.0
+realized,Old iGV,iGV,November 2023,0.0
+realized,iGTa,iGTa,November 2023,1.0
+realized,iGV,iGV,November 2023,20.0
+realized,iGTe,iGTe,November 2023,0.0
+realized,iGE,iGTa,November 2023,0.0
+approved,Old iGV,iGV,November 2023,0.0
+finished,iGTa,iGTa,November 2023,0.0
+finished,iGV,iGV,November 2023,27.0
+finished,iGTe,iGTe,November 2023,1.0
+realized,oGTe,oGTe,November 2023,0.0
+realized,oGTa,oGTa,November 2023,1.0
+realized,oGV,oGV,November 2023,2.0
+realized,oGE,oGTa,November 2023,0.0
+realized,Old oGT,oGTa,November 2023,0.0
+realized,Old oGV,oGV,November 2023,0.0
+approved,Old oGT,oGTa,November 2023,0.0
+approved,Old oGV,oGV,November 2023,0.0
+approved,oGV,oGV,November 2023,6.0
+approved,oGE,oGTa,November 2023,0.0
+completed,Old iGV,iGV,November 2023,0.0
+applied,Old oGV,oGV,November 2023,0.0
+completed,iGTa,iGTa,November 2023,0.0
+completed,iGTe,iGTe,November 2023,1.0
+completed,oGE,oGTa,November 2023,0.0
+approved,oGTe,oGTe,November 2023,2.0
+completed,iGV,iGV,November 2023,9.0
+completed,oGV,oGV,November 2023,2.0
+approved,oGTa,oGTa,November 2023,0.0
+completed,oGTa,oGTa,November 2023,0.0
+completed,oGTe,oGTe,November 2023,2.0
+completed,iGE,iGTa,November 2023,0.0
+completed,Old iGT,iGTa,November 2023,0.0
+completed,Old oGV,oGV,November 2023,0.0
+completed,Old oGT,oGTa,November 2023,0.0
+finished,iGE,iGTa,November 2023,0.0
+applied,iGTa,iGTa,November 2023,116.0
+applied,iGTe,iGTe,November 2023,28.0
+finished,Old iGT,iGTa,November 2023,0.0
+finished,Old iGV,iGV,November 2023,0.0
+approved,Old iGT,iGTa,November 2023,0.0
+applied,iGE,iGTa,November 2023,0.0
+approved,iGE,iGTa,November 2023,0.0
+applied,iGV,iGV,November 2023,237.0
+approved,iGV,iGV,November 2023,60.0
+applied,Old iGV,iGV,November 2023,0.0
+approved,iGTe,iGTe,November 2023,0.0
+applied,Old iGT,iGTa,November 2023,0.0
+approved,iGTa,iGTa,November 2023,0.0
+remote,oGTe,oGTe,November 2023,0.0
+remote,oGTa,oGTa,November 2023,0.0
+remote,iGTe,iGTe,November 2023,0.0
+remote,Old oGV,oGV,November 2023,0.0
+remote,iGTa,iGTa,November 2023,0.0
+remote,iGV,iGV,November 2023,0.0
+finished,oGTe,oGTe,November 2023,4.0
+remote,Old oGT,oGTa,November 2023,0.0
+finished,oGTa,oGTa,November 2023,0.0
+remote,oGE,oGTa,November 2023,0.0
+finished,oGV,oGV,November 2023,2.0
+remote,oGV,oGV,November 2023,0.0
+finished,oGE,oGTa,November 2023,0.0
+remote,Old iGV,iGV,November 2023,0.0
+applied,Old oGT,oGTa,November 2023,0.0
+finished,Old oGT,oGTa,November 2023,0.0
+finished,Old oGV,oGV,November 2023,0.0
+applied,oGE,oGTa,November 2023,0.0
+remote,iGE,iGTa,November 2023,0.0
+applied,oGV,oGV,November 2023,21.0
+applied,oGTa,oGTa,November 2023,37.0
+remote,Old iGT,iGTa,November 2023,0.0
+applied,oGTe,oGTe,November 2023,13.0
+o,oGV,oGV,November 2023,0.0
+o,oGT Old,oGTa,November 2023,0.0
+o,oGE,oGTa,November 2023,0.0
+o,oGV,oGV,November 2023,92.0
+o,oGTa,oGTa,November 2023,52.0
+o,oGTe,oGTe,November 2023,13.0
+i,iGV,iGV,November 2023,0.0
+i,iGT Old,iGTa,November 2023,0.0
+i,iGE,iGTa,November 2023,0.0
+i,iGV,iGV,November 2023,0.0
+i,iGTa,iGTa,November 2023,4.0
+i,iGTe,iGTe,November 2023,0.0
+total,Total,Total,November 2023,452.0
+total,Total,Total,November 2023,128.0
+accepted,Total,Total,November 2023,83.0
+total,Total,Total,November 2023,68.0
+total,Total,Total,November 2023,24.0
+realized,Total,Total,November 2023,0.0
+total,Total,Total,November 2023,34.0
+total,Total,Total,November 2023,14.0

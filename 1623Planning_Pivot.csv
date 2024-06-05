@@ -1,0 +1,630 @@
+"Function: oGTa, Term: 15.16"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,26.0,26.0
+Applied,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,16.0,16.0
+Accepted,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,1.0
+Approved,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,1.0
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,1.0
+Finished,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Completed,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+
+"Function: oGTa, Term: 16.17"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,14.0,36.0,21.0,38.0,24.0,32.0,39.0,25.0,51.0,49.0,37.0,23.0,389.0
+Applied,ASL,8.0,11.0,15.0,16.0,17.0,10.0,18.0,11.0,11.0,17.0,11.0,14.0,159.0
+Accepted,ASL,3.0,1.0,0.0,0.0,1.0,3.0,4.0,2.0,1.0,0.0,0.0,1.0,16.0
+Approved,ASL,0.0,2.0,0.0,0.0,1.0,2.0,3.0,3.0,1.0,0.0,0.0,1.0,13.0
+Realized,ASL,0.0,1.0,2.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,1.0,9.0
+Finished,ASL,2.0,4.0,2.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0,1.0,1.0,14.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+"Function: oGTa, Term: 17.18"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,39.0,64.0,106.0,179.0,144.0,53.0,64.0,89.0,70.0,76.0,62.0,65.0,1011.0
+Applied,ASL,15.0,26.0,25.0,35.0,51.0,39.0,35.0,26.0,23.0,38.0,28.0,36.0,377.0
+Accepted,ASL,1.0,3.0,4.0,1.0,6.0,3.0,2.0,1.0,2.0,1.0,2.0,0.0,26.0
+Approved,ASL,1.0,3.0,4.0,0.0,7.0,1.0,3.0,1.0,2.0,1.0,2.0,0.0,25.0
+Realized,ASL,0.0,0.0,2.0,1.0,3.0,2.0,3.0,1.0,3.0,1.0,1.0,1.0,18.0
+Finished,ASL,0.0,1.0,0.0,1.0,1.0,3.0,1.0,2.0,1.0,0.0,4.0,0.0,14.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,5.0
+
+"Function: oGTa, Term: 18.19"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,83.0,112.0,97.0,64.0,66.0,53.0,73.0,115.0,92.0,82.0,58.0,50.0,945.0
+Applied,ASL,47.0,49.0,63.0,65.0,67.0,55.0,80.0,74.0,71.0,68.0,57.0,65.0,761.0
+Accepted,ASL,2.0,4.0,1.0,6.0,3.0,3.0,5.0,1.0,3.0,5.0,3.0,3.0,39.0
+Approved,ASL,2.0,3.0,0.0,6.0,1.0,2.0,4.0,2.0,2.0,2.0,3.0,2.0,29.0
+Realized,ASL,3.0,2.0,0.0,0.0,3.0,2.0,1.0,2.0,1.0,0.0,1.0,0.0,15.0
+Finished,ASL,0.0,1.0,0.0,1.0,2.0,4.0,1.0,1.0,4.0,0.0,0.0,1.0,15.0
+Completed,ASL,0.0,0.0,0.0,1.0,0.0,4.0,1.0,1.0,3.0,0.0,0.0,0.0,10.0
+
+"Function: oGTa, Term: 19.20"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,92.0,101.0,92.0,96.0,35.0,48.0,61.0,82.0,90.0,45.0,55.0,nan,797.0
+Applied,ASL,80.0,89.0,55.0,90.0,60.0,56.0,64.0,66.0,76.0,59.0,50.0,nan,745.0
+Accepted,ASL,3.0,4.0,5.0,3.0,2.0,0.0,5.0,3.0,5.0,4.0,2.0,nan,36.0
+Approved,ASL,3.0,2.0,7.0,2.0,1.0,1.0,5.0,3.0,3.0,4.0,0.0,nan,31.0
+Realized,ASL,6.0,1.0,2.0,1.0,1.0,8.0,0.0,2.0,3.0,0.0,3.0,nan,27.0
+Finished,ASL,2.0,3.0,0.0,2.0,2.0,2.0,3.0,0.0,5.0,3.0,2.0,nan,24.0
+Completed,ASL,1.0,2.0,0.0,2.0,0.0,1.0,3.0,0.0,4.0,2.0,2.0,nan,17.0
+
+"Function: oGTa, Term: 21.22"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,58.0,58.0
+Applied,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,36.0,36.0
+Accepted,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,2.0,2.0
+Approved,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,2.0,2.0
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,1.0
+Finished,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Completed,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+
+"Function: oGTa, Term: 22.23"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,59.0,93.0,76.0,110.0,139.0,92.0,80.0,66.0,49.0,98.0,65.0,28.0,955.0
+Applied,ASL,34.0,53.0,50.0,92.0,86.0,63.0,61.0,66.0,68.0,56.0,49.0,29.0,707.0
+Accepted,ASL,2.0,3.0,2.0,2.0,3.0,2.0,0.0,3.0,2.0,1.0,1.0,0.0,21.0
+Approved,ASL,2.0,1.0,2.0,0.0,2.0,2.0,0.0,1.0,3.0,0.0,1.0,0.0,14.0
+Realized,ASL,2.0,0.0,1.0,0.0,2.0,2.0,0.0,3.0,1.0,1.0,0.0,2.0,14.0
+Finished,ASL,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,8.0
+Completed,ASL,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,5.0
+
+"Function: oGTa, Term: 23.24"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,37.0,85.0,32.0,34.0,46.0,25.0,18.0,46.0,48.0,52.0,47.0,27.0,497.0
+Applied,ASL,32.0,65.0,42.0,47.0,55.0,34.0,26.0,24.0,29.0,37.0,38.0,34.0,463.0
+Accepted,ASL,0.0,0.0,3.0,0.0,2.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,11.0
+Approved,ASL,0.0,0.0,3.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,8.0
+Realized,ASL,1.0,0.0,1.0,2.0,2.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,10.0
+Finished,ASL,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,1.0,0.0,1.0,1.0,11.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,5.0
+
+"Function: oGTa, Term: 24.25"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,39.0,406.0,40.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,547.0
+Applied,ASL,43.0,411.0,67.0,43.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,564.0
+Accepted,ASL,1.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,7.0
+Approved,ASL,0.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,7.0
+Realized,ASL,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,1.0
+Finished,ASL,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,nan,7.0
+Completed,ASL,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,3.0
+
+"Function: iGTa, Term: 15.16"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,4.0,4.0
+Applied,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,174.0,174.0
+Accepted,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,3.0,3.0
+Approved,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,3.0,3.0
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,3.0,3.0
+Finished,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,8.0,8.0
+Completed,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+
+"Function: iGTa, Term: 16.17"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,2.0,11.0,3.0,8.0,7.0,4.0,2.0,6.0,13.0,13.0,9.0,3.0,81.0
+Applied,ASL,166.0,155.0,134.0,125.0,69.0,150.0,57.0,110.0,196.0,339.0,235.0,118.0,1854.0
+Accepted,ASL,7.0,4.0,4.0,6.0,4.0,6.0,3.0,3.0,3.0,8.0,4.0,6.0,58.0
+Approved,ASL,5.0,2.0,5.0,6.0,3.0,4.0,4.0,3.0,2.0,10.0,1.0,6.0,51.0
+Realized,ASL,3.0,4.0,1.0,2.0,1.0,6.0,2.0,5.0,5.0,1.0,5.0,7.0,42.0
+Finished,ASL,3.0,3.0,1.0,3.0,4.0,2.0,3.0,3.0,2.0,3.0,3.0,5.0,35.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+"Function: iGTa, Term: 17.18"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,12.0,4.0,12.0,6.0,6.0,5.0,22.0,11.0,1.0,10.0,7.0,15.0,111.0
+Applied,ASL,176.0,193.0,262.0,219.0,341.0,323.0,410.0,133.0,87.0,258.0,196.0,207.0,2805.0
+Accepted,ASL,9.0,9.0,7.0,7.0,5.0,10.0,6.0,7.0,1.0,3.0,4.0,7.0,75.0
+Approved,ASL,5.0,13.0,6.0,6.0,4.0,9.0,4.0,3.0,3.0,3.0,6.0,6.0,68.0
+Realized,ASL,4.0,9.0,4.0,5.0,5.0,3.0,12.0,0.0,2.0,1.0,6.0,5.0,56.0
+Finished,ASL,2.0,5.0,6.0,7.0,0.0,3.0,12.0,6.0,4.0,3.0,2.0,11.0,61.0
+Completed,ASL,0.0,0.0,0.0,1.0,0.0,0.0,4.0,2.0,2.0,1.0,0.0,6.0,16.0
+
+"Function: iGTa, Term: 18.19"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,7.0,9.0,9.0,5.0,3.0,19.0,11.0,13.0,3.0,4.0,2.0,12.0,97.0
+Applied,ASL,186.0,193.0,397.0,298.0,311.0,362.0,410.0,317.0,510.0,386.0,242.0,349.0,3961.0
+Accepted,ASL,4.0,1.0,3.0,3.0,5.0,5.0,16.0,8.0,5.0,2.0,2.0,6.0,60.0
+Approved,ASL,1.0,3.0,3.0,4.0,3.0,5.0,14.0,7.0,6.0,2.0,2.0,6.0,56.0
+Realized,ASL,4.0,3.0,0.0,0.0,5.0,1.0,3.0,12.0,6.0,5.0,2.0,2.0,43.0
+Finished,ASL,2.0,5.0,5.0,3.0,6.0,1.0,2.0,3.0,1.0,2.0,9.0,4.0,43.0
+Completed,ASL,0.0,4.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0,3.0,2.0,16.0
+
+"Function: iGTa, Term: 19.20"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,4.0,2.0,1.0,11.0,2.0,9.0,4.0,8.0,6.0,3.0,2.0,nan,52.0
+Applied,ASL,312.0,483.0,401.0,326.0,396.0,411.0,418.0,486.0,450.0,258.0,158.0,nan,4099.0
+Accepted,ASL,5.0,7.0,2.0,0.0,7.0,4.0,4.0,3.0,4.0,3.0,3.0,nan,42.0
+Approved,ASL,4.0,3.0,1.0,0.0,5.0,4.0,4.0,1.0,4.0,3.0,4.0,nan,33.0
+Realized,ASL,6.0,3.0,3.0,1.0,0.0,5.0,1.0,1.0,5.0,4.0,0.0,nan,29.0
+Finished,ASL,4.0,13.0,4.0,2.0,2.0,1.0,1.0,4.0,4.0,2.0,1.0,nan,38.0
+Completed,ASL,0.0,7.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,nan,12.0
+
+"Function: iGTa, Term: 21.22"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,4.0,4.0
+Applied,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,126.0,126.0
+Accepted,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,6.0,6.0
+Approved,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,9.0,9.0
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.0,5.0
+Finished,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Completed,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+
+"Function: iGTa, Term: 22.23"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,7.0,2.0,3.0,4.0,1.0,6.0,2.0,8.0,16.0,10.0,6.0,4.0,69.0
+Applied,ASL,90.0,141.0,94.0,63.0,59.0,68.0,82.0,130.0,162.0,122.0,132.0,150.0,1293.0
+Accepted,ASL,0.0,2.0,3.0,2.0,0.0,2.0,2.0,0.0,1.0,1.0,1.0,4.0,18.0
+Approved,ASL,0.0,1.0,2.0,0.0,0.0,2.0,2.0,0.0,1.0,0.0,2.0,3.0,13.0
+Realized,ASL,1.0,3.0,0.0,0.0,3.0,0.0,1.0,1.0,0.0,1.0,0.0,4.0,14.0
+Finished,ASL,2.0,2.0,1.0,0.0,1.0,2.0,3.0,0.0,2.0,0.0,0.0,2.0,15.0
+Completed,ASL,2.0,1.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,8.0
+
+"Function: iGTa, Term: 23.24"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,2.0,5.0,3.0,8.0,2.0,2.0,1.0,6.0,4.0,4.0,1.0,2.0,40.0
+Applied,ASL,87.0,60.0,105.0,105.0,70.0,91.0,99.0,150.0,86.0,116.0,58.0,89.0,1116.0
+Accepted,ASL,1.0,1.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,0.0,1.0,2.0,13.0
+Approved,ASL,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,1.0,2.0,12.0
+Realized,ASL,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,9.0
+Finished,ASL,0.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,2.0,0.0,0.0,0.0,10.0
+Completed,ASL,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,3.0
+
+"Function: iGTa, Term: 24.25"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,8.0,25.0,1.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,49.0
+Applied,ASL,123.0,288.0,162.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,633.0
+Accepted,ASL,3.0,6.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,13.0
+Approved,ASL,1.0,5.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,9.0
+Realized,ASL,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,3.0
+Finished,ASL,0.0,1.0,2.0,2.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,nan,9.0
+Completed,ASL,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,1.0
+
+"Function: iGV, Term: 15.16"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Applied,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,88.0,88.0
+Accepted,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,26.0,26.0
+Approved,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,38.0,38.0
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,192.0,192.0
+Finished,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,37.0,37.0
+Completed,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+
+"Function: iGV, Term: 16.17"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,7.0,19.0,15.0,5.0,8.0,4.0,2.0,17.0,38.0,14.0,42.0,6.0,177.0
+Applied,ASL,118.0,412.0,1114.0,882.0,287.0,95.0,49.0,55.0,290.0,678.0,398.0,191.0,4569.0
+Accepted,ASL,26.0,33.0,218.0,260.0,81.0,38.0,14.0,10.0,44.0,188.0,109.0,51.0,1072.0
+Approved,ASL,20.0,26.0,178.0,251.0,86.0,31.0,20.0,10.0,31.0,149.0,111.0,51.0,964.0
+Realized,ASL,38.0,15.0,11.0,20.0,144.0,297.0,64.0,8.0,10.0,0.0,35.0,223.0,865.0
+Finished,ASL,35.0,190.0,29.0,10.0,29.0,52.0,259.0,164.0,33.0,9.0,5.0,5.0,820.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+
+"Function: iGV, Term: 17.18"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,50.0,9.0,12.0,10.0,4.0,3.0,11.0,5.0,7.0,17.0,33.0,17.0,178.0
+Applied,ASL,598.0,1072.0,1318.0,1112.0,642.0,322.0,246.0,229.0,406.0,383.0,375.0,327.0,7030.0
+Accepted,ASL,38.0,176.0,380.0,301.0,135.0,62.0,29.0,50.0,72.0,86.0,57.0,58.0,1444.0
+Approved,ASL,24.0,137.0,330.0,288.0,123.0,66.0,27.0,35.0,51.0,93.0,45.0,40.0,1259.0
+Realized,ASL,42.0,16.0,25.0,63.0,225.0,371.0,161.0,32.0,8.0,8.0,30.0,116.0,1097.0
+Finished,ASL,79.0,191.0,36.0,19.0,24.0,177.0,369.0,193.0,85.0,14.0,15.0,21.0,1223.0
+Completed,ASL,1.0,7.0,1.0,0.0,12.0,96.0,178.0,95.0,19.0,3.0,7.0,13.0,432.0
+
+"Function: iGV, Term: 18.19"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,93.0,70.0,51.0,19.0,13.0,7.0,47.0,3.0,14.0,23.0,9.0,48.0,397.0
+Applied,ASL,412.0,839.0,805.0,744.0,572.0,253.0,212.0,290.0,446.0,515.0,272.0,325.0,5685.0
+Accepted,ASL,89.0,209.0,325.0,221.0,117.0,65.0,38.0,83.0,85.0,203.0,68.0,75.0,1578.0
+Approved,ASL,83.0,166.0,307.0,215.0,105.0,62.0,21.0,68.0,66.0,160.0,61.0,46.0,1360.0
+Realized,ASL,16.0,8.0,3.0,55.0,163.0,455.0,111.0,20.0,14.0,7.0,40.0,130.0,1022.0
+Finished,ASL,43.0,91.0,14.0,4.0,15.0,162.0,400.0,200.0,28.0,15.0,5.0,40.0,1017.0
+Completed,ASL,29.0,55.0,10.0,3.0,13.0,100.0,269.0,133.0,17.0,14.0,4.0,34.0,681.0
+
+"Function: iGV, Term: 19.20"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,25.0,20.0,32.0,6.0,4.0,2.0,6.0,62.0,36.0,7.0,38.0,nan,238.0
+Applied,ASL,462.0,813.0,525.0,261.0,222.0,250.0,138.0,183.0,235.0,237.0,175.0,nan,3501.0
+Accepted,ASL,129.0,252.0,185.0,31.0,25.0,23.0,17.0,51.0,47.0,91.0,44.0,nan,895.0
+Approved,ASL,72.0,147.0,125.0,25.0,24.0,19.0,18.0,31.0,33.0,46.0,34.0,nan,574.0
+Realized,ASL,25.0,11.0,1.0,10.0,52.0,123.0,25.0,7.0,9.0,3.0,26.0,nan,292.0
+Finished,ASL,84.0,71.0,11.0,0.0,10.0,40.0,108.0,50.0,9.0,10.0,3.0,nan,396.0
+Completed,ASL,55.0,47.0,7.0,0.0,8.0,29.0,71.0,37.0,8.0,2.0,1.0,nan,265.0
+
+"Function: iGV, Term: 21.22"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,1.0
+Applied,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,282.0,282.0
+Accepted,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,88.0,88.0
+Approved,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,33.0,33.0
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,31.0,31.0
+Finished,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,9.0,9.0
+Completed,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+
+"Function: iGV, Term: 22.23"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,2.0,2.0,3.0,3.0,2.0,1.0,2.0,2.0,3.0,0.0,2.0,0.0,22.0
+Applied,ASL,221.0,496.0,402.0,259.0,132.0,106.0,67.0,90.0,151.0,285.0,181.0,129.0,2519.0
+Accepted,ASL,76.0,156.0,88.0,49.0,29.0,11.0,17.0,29.0,32.0,52.0,51.0,30.0,620.0
+Approved,ASL,17.0,28.0,27.0,16.0,12.0,11.0,7.0,8.0,13.0,13.0,14.0,14.0,180.0
+Realized,ASL,51.0,21.0,20.0,5.0,20.0,33.0,21.0,8.0,5.0,6.0,5.0,13.0,208.0
+Finished,ASL,31.0,50.0,26.0,18.0,7.0,12.0,32.0,26.0,12.0,4.0,7.0,5.0,230.0
+Completed,ASL,9.0,12.0,7.0,7.0,2.0,7.0,20.0,11.0,4.0,4.0,3.0,1.0,87.0
+
+"Function: iGV, Term: 23.24"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,0.0,0.0,1.0,0.0,0.0,0.0,8.0,1.0,0.0,0.0,0.0,0.0,10.0
+Applied,ASL,205.0,492.0,522.0,411.0,333.0,223.0,295.0,315.0,200.0,237.0,180.0,210.0,3623.0
+Accepted,ASL,60.0,151.0,120.0,99.0,89.0,53.0,38.0,38.0,33.0,69.0,50.0,33.0,833.0
+Approved,ASL,35.0,69.0,73.0,75.0,73.0,46.0,32.0,31.0,31.0,60.0,39.0,34.0,598.0
+Realized,ASL,10.0,5.0,15.0,16.0,70.0,132.0,65.0,29.0,27.0,20.0,14.0,27.0,430.0
+Finished,ASL,13.0,7.0,8.0,8.0,16.0,54.0,128.0,74.0,42.0,27.0,18.0,20.0,415.0
+Completed,ASL,6.0,2.0,3.0,4.0,4.0,21.0,60.0,37.0,15.0,9.0,8.0,12.0,181.0
+
+"Function: iGV, Term: 24.25"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,0.0,56.0,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,104.0
+Applied,ASL,219.0,387.0,336.0,187.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,1129.0
+Accepted,ASL,42.0,88.0,99.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,270.0
+Approved,ASL,47.0,84.0,96.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,265.0
+Realized,ASL,6.0,14.0,3.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,34.0
+Finished,ASL,23.0,8.0,14.0,6.0,10.0,0.0,2.0,0.0,0.0,0.0,0.0,nan,63.0
+Completed,ASL,11.0,2.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,22.0
+
+"Function: oGV, Term: 15.16"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,23.0,23.0
+Applied,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,9.0,9.0
+Accepted,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,4.0,4.0
+Approved,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,9.0,9.0
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,26.0,26.0
+Finished,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,14.0,14.0
+Completed,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+
+"Function: oGV, Term: 16.17"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,12.0,71.0,39.0,44.0,22.0,32.0,44.0,53.0,93.0,96.0,65.0,37.0,608.0
+Applied,ASL,3.0,7.0,57.0,60.0,23.0,28.0,22.0,18.0,50.0,69.0,75.0,37.0,449.0
+Accepted,ASL,3.0,3.0,28.0,38.0,17.0,10.0,13.0,5.0,21.0,47.0,50.0,31.0,266.0
+Approved,ASL,3.0,1.0,25.0,38.0,17.0,9.0,13.0,4.0,13.0,41.0,51.0,29.0,244.0
+Realized,ASL,7.0,3.0,1.0,13.0,30.0,14.0,8.0,9.0,3.0,7.0,25.0,52.0,172.0
+Finished,ASL,10.0,21.0,7.0,0.0,4.0,12.0,36.0,13.0,3.0,8.0,3.0,24.0,141.0
+Completed,ASL,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0
+
+"Function: oGV, Term: 17.18"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,41.0,64.0,95.0,146.0,119.0,32.0,76.0,96.0,98.0,78.0,72.0,67.0,984.0
+Applied,ASL,26.0,34.0,75.0,69.0,87.0,54.0,36.0,74.0,90.0,78.0,64.0,70.0,757.0
+Accepted,ASL,11.0,17.0,43.0,32.0,36.0,32.0,13.0,33.0,33.0,45.0,30.0,31.0,356.0
+Approved,ASL,12.0,18.0,42.0,29.0,29.0,25.0,22.0,21.0,30.0,46.0,29.0,25.0,328.0
+Realized,ASL,31.0,6.0,7.0,4.0,39.0,17.0,11.0,15.0,23.0,20.0,37.0,29.0,239.0
+Finished,ASL,37.0,32.0,27.0,5.0,4.0,17.0,35.0,13.0,16.0,14.0,30.0,26.0,256.0
+Completed,ASL,6.0,10.0,9.0,2.0,3.0,16.0,29.0,7.0,13.0,12.0,27.0,21.0,155.0
+
+"Function: oGV, Term: 18.19"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,55.0,98.0,113.0,48.0,41.0,42.0,92.0,132.0,97.0,74.0,62.0,49.0,903.0
+Applied,ASL,46.0,53.0,84.0,90.0,39.0,56.0,84.0,130.0,88.0,101.0,70.0,53.0,894.0
+Accepted,ASL,24.0,26.0,27.0,47.0,17.0,21.0,39.0,51.0,42.0,51.0,36.0,30.0,411.0
+Approved,ASL,25.0,23.0,20.0,40.0,16.0,17.0,30.0,39.0,39.0,38.0,32.0,25.0,344.0
+Realized,ASL,12.0,15.0,17.0,3.0,15.0,23.0,7.0,14.0,11.0,10.0,49.0,60.0,236.0
+Finished,ASL,32.0,15.0,19.0,19.0,4.0,11.0,23.0,7.0,13.0,17.0,10.0,43.0,213.0
+Completed,ASL,27.0,14.0,18.0,19.0,3.0,10.0,20.0,7.0,12.0,14.0,10.0,42.0,196.0
+
+"Function: oGV, Term: 19.20"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,61.0,164.0,90.0,55.0,62.0,70.0,70.0,117.0,100.0,113.0,167.0,nan,1069.0
+Applied,ASL,61.0,112.0,90.0,72.0,67.0,72.0,43.0,76.0,94.0,63.0,39.0,nan,789.0
+Accepted,ASL,23.0,53.0,50.0,28.0,26.0,33.0,19.0,27.0,31.0,21.0,17.0,nan,328.0
+Approved,ASL,11.0,38.0,34.0,24.0,17.0,33.0,14.0,14.0,19.0,14.0,10.0,nan,228.0
+Realized,ASL,19.0,11.0,15.0,5.0,13.0,19.0,8.0,20.0,19.0,11.0,12.0,nan,152.0
+Finished,ASL,33.0,49.0,11.0,18.0,6.0,6.0,24.0,9.0,20.0,15.0,14.0,nan,205.0
+Completed,ASL,27.0,45.0,10.0,18.0,4.0,5.0,19.0,8.0,19.0,14.0,11.0,nan,180.0
+
+"Function: oGV, Term: 21.22"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,71.0,71.0
+Applied,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,12.0,12.0
+Accepted,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,6.0,6.0
+Approved,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,1.0
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,2.0,2.0
+Finished,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,1.0
+Completed,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,1.0
+
+"Function: oGV, Term: 22.23"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,149.0,142.0,135.0,195.0,304.0,106.0,107.0,47.0,78.0,61.0,75.0,55.0,1454.0
+Applied,ASL,10.0,16.0,10.0,21.0,28.0,40.0,23.0,18.0,15.0,32.0,18.0,19.0,250.0
+Accepted,ASL,2.0,4.0,2.0,6.0,8.0,15.0,6.0,4.0,5.0,11.0,8.0,9.0,80.0
+Approved,ASL,1.0,2.0,0.0,3.0,5.0,9.0,2.0,4.0,5.0,6.0,8.0,4.0,49.0
+Realized,ASL,2.0,0.0,2.0,0.0,0.0,3.0,2.0,5.0,2.0,2.0,1.0,10.0,29.0
+Finished,ASL,2.0,2.0,1.0,1.0,1.0,0.0,1.0,4.0,5.0,2.0,2.0,1.0,22.0
+Completed,ASL,2.0,1.0,0.0,1.0,1.0,0.0,1.0,4.0,5.0,2.0,1.0,0.0,18.0
+
+"Function: oGV, Term: 23.24"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,46.0,56.0,41.0,26.0,37.0,36.0,17.0,37.0,36.0,92.0,48.0,55.0,527.0
+Applied,ASL,28.0,36.0,28.0,15.0,18.0,24.0,9.0,19.0,17.0,21.0,15.0,15.0,245.0
+Accepted,ASL,18.0,20.0,14.0,12.0,8.0,12.0,2.0,8.0,8.0,10.0,6.0,6.0,124.0
+Approved,ASL,12.0,7.0,10.0,5.0,2.0,11.0,2.0,6.0,7.0,6.0,6.0,5.0,79.0
+Realized,ASL,1.0,5.0,2.0,4.0,11.0,6.0,3.0,3.0,2.0,2.0,15.0,4.0,58.0
+Finished,ASL,7.0,3.0,4.0,3.0,5.0,7.0,9.0,4.0,3.0,2.0,2.0,12.0,61.0
+Completed,ASL,4.0,1.0,1.0,1.0,5.0,7.0,7.0,4.0,2.0,2.0,2.0,11.0,47.0
+
+"Function: oGV, Term: 24.25"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,254.0,501.0,173.0,246.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,1174.0
+Applied,ASL,13.0,130.0,26.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,223.0
+Accepted,ASL,6.0,62.0,10.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,105.0
+Approved,ASL,2.0,56.0,10.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,92.0
+Realized,ASL,0.0,1.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,6.0
+Finished,ASL,3.0,4.0,1.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,13.0
+Completed,ASL,3.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,7.0
+
+"Function: Total, Term: 15.16"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Applied,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Accepted,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Approved,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Finished,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Completed,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+
+"Function: Total, Term: 16.17"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Applied,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Accepted,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Approved,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finished,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Completed,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+
+"Function: Total, Term: 17.18"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Applied,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Accepted,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Approved,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finished,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Completed,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+
+"Function: Total, Term: 18.19"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Applied,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Accepted,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Approved,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finished,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Completed,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+
+"Function: Total, Term: 19.20"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Applied,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Accepted,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Approved,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Finished,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Completed,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+
+"Function: Total, Term: 21.22"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Applied,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Accepted,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Approved,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,1.0
+Finished,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Completed,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+
+"Function: Total, Term: 22.23"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Applied,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Accepted,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Approved,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Finished,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Completed,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+
+"Function: Total, Term: 23.24"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Applied,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Accepted,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Approved,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finished,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Completed,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+
+"Function: Total, Term: 24.25"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Applied,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Accepted,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Approved,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Finished,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Completed,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+
+"Function: oGTe, Term: 15.16"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Applied,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Accepted,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Approved,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Finished,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Completed,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+
+"Function: oGTe, Term: 16.17"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,4.0
+Applied,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Accepted,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Approved,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finished,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+"Function: oGTe, Term: 17.18"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,0.0,0.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,3.0,1.0,1.0,12.0
+Applied,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Accepted,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Approved,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finished,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+"Function: oGTe, Term: 18.19"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,0.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,3.0,2.0,1.0,3.0,16.0
+Applied,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Accepted,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Approved,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finished,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+"Function: oGTe, Term: 19.20"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,1.0,3.0,1.0,1.0,0.0,0.0,2.0,2.0,3.0,1.0,1.0,nan,15.0
+Applied,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Accepted,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Approved,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Finished,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+
+"Function: oGTe, Term: 21.22"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,20.0,20.0
+Applied,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,11.0,11.0
+Accepted,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,3.0,3.0
+Approved,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,2.0,2.0
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,1.0
+Finished,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Completed,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+
+"Function: oGTe, Term: 22.23"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,17.0,27.0,19.0,35.0,41.0,28.0,19.0,13.0,10.0,22.0,23.0,11.0,265.0
+Applied,ASL,8.0,14.0,14.0,30.0,34.0,23.0,25.0,21.0,19.0,17.0,22.0,7.0,234.0
+Accepted,ASL,0.0,1.0,2.0,3.0,2.0,2.0,3.0,3.0,5.0,1.0,3.0,2.0,27.0
+Approved,ASL,1.0,1.0,1.0,3.0,1.0,3.0,2.0,0.0,4.0,2.0,1.0,2.0,21.0
+Realized,ASL,2.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,3.0,3.0,0.0,2.0,20.0
+Finished,ASL,0.0,0.0,1.0,0.0,1.0,0.0,2.0,2.0,2.0,4.0,0.0,0.0,12.0
+Completed,ASL,0.0,0.0,1.0,0.0,1.0,0.0,2.0,2.0,1.0,2.0,0.0,0.0,9.0
+
+"Function: oGTe, Term: 23.24"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,10.0,31.0,5.0,8.0,12.0,8.0,3.0,25.0,12.0,13.0,9.0,15.0,151.0
+Applied,ASL,14.0,25.0,21.0,10.0,27.0,15.0,4.0,12.0,12.0,13.0,18.0,8.0,179.0
+Accepted,ASL,1.0,2.0,3.0,0.0,3.0,2.0,1.0,4.0,2.0,3.0,4.0,0.0,25.0
+Approved,ASL,1.0,1.0,3.0,0.0,1.0,2.0,2.0,3.0,2.0,2.0,2.0,1.0,20.0
+Realized,ASL,0.0,1.0,0.0,2.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,4.0,12.0
+Finished,ASL,1.0,2.0,0.0,1.0,1.0,2.0,1.0,2.0,1.0,4.0,0.0,1.0,16.0
+Completed,ASL,1.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0,0.0,0.0,7.0
+
+"Function: oGTe, Term: 24.25"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,24.0,202.0,17.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,255.0
+Applied,ASL,22.0,169.0,24.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,232.0
+Accepted,ASL,0.0,5.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,13.0
+Approved,ASL,0.0,4.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,11.0
+Realized,ASL,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,2.0
+Finished,ASL,0.0,1.0,0.0,3.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,nan,11.0
+Completed,ASL,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,3.0
+
+"Function: iGTe, Term: 15.16"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Applied,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Accepted,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Approved,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Finished,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Completed,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+
+"Function: iGTe, Term: 16.17"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Applied,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Accepted,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Approved,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finished,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+"Function: iGTe, Term: 17.18"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Applied,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Accepted,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Approved,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finished,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+"Function: iGTe, Term: 18.19"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Applied,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Accepted,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Approved,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finished,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+"Function: iGTe, Term: 19.20"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Applied,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Accepted,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Approved,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Finished,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+
+"Function: iGTe, Term: 21.22"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Applied,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,15.0,15.0
+Accepted,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Approved,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,1.0
+Realized,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Finished,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+Completed,ASL,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,0.0,0.0
+
+"Function: iGTe, Term: 22.23"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,0.0,0.0,0.0,0.0,5.0,0.0,2.0,3.0,3.0,0.0,4.0,0.0,17.0
+Applied,ASL,3.0,11.0,2.0,8.0,19.0,20.0,13.0,40.0,41.0,55.0,34.0,53.0,299.0
+Accepted,ASL,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,4.0
+Approved,ASL,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,3.0
+Realized,ASL,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0
+Finished,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,3.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,2.0
+
+"Function: iGTe, Term: 23.24"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,0.0,3.0,4.0,4.0,1.0,4.0,0.0,3.0,1.0,0.0,0.0,0.0,20.0
+Applied,ASL,25.0,17.0,28.0,22.0,28.0,18.0,37.0,24.0,13.0,28.0,6.0,4.0,250.0
+Accepted,ASL,0.0,0.0,3.0,2.0,3.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,11.0
+Approved,ASL,0.0,0.0,3.0,1.0,3.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,10.0
+Realized,ASL,0.0,0.0,0.0,1.0,1.0,1.0,0.0,4.0,1.0,0.0,0.0,1.0,9.0
+Finished,ASL,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,1.0,0.0,5.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,4.0
+
+"Function: iGTe, Term: 24.25"
+Index,Entity,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,Total
+Open,ASL,5.0,4.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,16.0
+Applied,ASL,14.0,52.0,50.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,164.0
+Accepted,ASL,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,2.0
+Approved,ASL,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,2.0
+Realized,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+Finished,ASL,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,nan,4.0
+Completed,ASL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nan,0.0
+
